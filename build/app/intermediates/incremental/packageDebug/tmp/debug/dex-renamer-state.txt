@@ -1,0 +1,10 @@
+#Tue Oct 29 22:33:41 PKT 2019
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=D\:\\Client Projects\\match_hire\\match_hire\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=D\:\\Client Projects\\match_hire\\match_hire\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+base.0=D\:\\Client Projects\\match_hire\\match_hire\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "89916943143",
+    "firebase_url": "https://matchhired-1ff6f.firebaseio.com",
+    "project_id": "matchhired-1ff6f",
+    "storage_bucket": "matchhired-1ff6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89916943143:android:023ee001a72fbbe8ecd702",
+        "android_client_info": {
+          "package_name": "com.match_hire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89916943143-k2v2ijpth2l4lpvhsl2lnifntjffddln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQVunL2WO418rZiX0kJbpGLkaoRs4l3gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89916943143-k2v2ijpth2l4lpvhsl2lnifntjffddln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "89916943143-92qlbrmj5d5l0uva15mdl1a4dev1srvo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.matchHired"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

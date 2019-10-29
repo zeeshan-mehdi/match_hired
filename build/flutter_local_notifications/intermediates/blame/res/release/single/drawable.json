@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Client Projects\\match_hire\\match_hire\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\zeesh\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\252ff15af842a9cdba8694521e77c1d6\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Client Projects\\match_hire\\match_hire\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\zeesh\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\252ff15af842a9cdba8694521e77c1d6\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Client Projects\\match_hire\\match_hire\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\zeesh\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\252ff15af842a9cdba8694521e77c1d6\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Client Projects\\match_hire\\match_hire\\build\\flutter_local_notifications\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\zeesh\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.1.aar\\252ff15af842a9cdba8694521e77c1d6\\res\\drawable\\notification_bg_low.xml"
+    }
+]

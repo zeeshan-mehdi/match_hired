@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Client Projects\\match_hire\\match_hire\\build\\agora_rtc_engine\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zeesh\\.gradle\\caches\\transforms-1\\files-1.1\\full-sdk-2.4.1.aar\\f4fbce804845ec69070f97a9998e23f9\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Client Projects\\match_hire\\match_hire\\build\\agora_rtc_engine\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\zeesh\\.gradle\\caches\\transforms-1\\files-1.1\\full-sdk-2.4.1.aar\\f4fbce804845ec69070f97a9998e23f9\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    }
+                }
+            ]
+        }
+    ]
+}

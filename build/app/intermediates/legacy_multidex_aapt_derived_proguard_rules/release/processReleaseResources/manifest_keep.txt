@@ -1,0 +1,2 @@
+# Referenced at D:\Client Projects\match_hire\match_hire\build\app\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:29
+-keep class io.flutter.app.FlutterApplication { <init>(...); }
