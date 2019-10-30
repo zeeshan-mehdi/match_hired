@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/painting.dart';
 import 'package:flutter/rendering.dart';
 import 'package:fluttertoast/fluttertoast.dart';
+import 'package:match_hire/home.dart';
 import 'package:match_hire/main.dart' as prefix0;
 import 'package:match_hire/model/User.dart';
 import 'package:match_hire/upload_image.dart';
@@ -245,7 +246,7 @@ class _LoginPageState extends State<LoginPage> {
       if (documents[0]['photoUrl'] != null) {
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => prefix0.MyApp(user)),
+          MaterialPageRoute(builder: (context) => HomePage(user)),
         );
       } else {
         Navigator.push(

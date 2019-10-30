@@ -6,6 +6,7 @@ import 'package:firebase_storage/firebase_storage.dart'; // For File Upload To F
 import 'package:flutter/material.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 import 'package:image_picker/image_picker.dart'; // For Image Picker
+import 'package:match_hire/home.dart';
 import 'package:path/path.dart' as Path;
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -193,7 +194,7 @@ class _ImagePageState extends State<ImagePage> {
       setState(() {
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => MyApp(firebaseUser)),
+          MaterialPageRoute(builder: (context) => HomePage(firebaseUser)),
         );
         print(fileURL);
         isLoading = true;
@@ -260,7 +261,7 @@ class _ImagePageState extends State<ImagePage> {
 
         Navigator.push(
           context,
-          MaterialPageRoute(builder: (context) => MyApp(currentUser)),
+          MaterialPageRoute(builder: (context) => HomePage(currentUser)),
         );
       });
     }
